@@ -1,7 +1,6 @@
 # Apple Vision Pro Landing Page Clone
 
-This project is a visually rich, interactive landing page inspired by the official Apple Vision Pro website. It features advanced animations, responsive design, and a modern UI, closely mimicking Apple's product presentation style.
-
+This project is a visually rich, interactive landing page inspired by the official Apple Vision Pro website. It features advanced animations, responsive design, and a modern UI, closely mimicking Apple's product presentation style.developed by Muhammad Muneer Raja.
 ## Features
 - Hero video and animated sections
 - Responsive layout for desktop and mobile
@@ -52,4 +51,4 @@ This project is for educational and personal portfolio use only. Not affiliated 
 
 ---
 
-**Created by Maheen Arif**
+**Created by Muhammad Muneer Raja**
